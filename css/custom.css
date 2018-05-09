@@ -1,0 +1,10 @@
+.slant {
+	background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #52d3aa 100%);
+	opacity: 0;
+}
+
+#fh5co-work:before {
+	background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #52d3aa 100%);
+	opacity: 0;
+}
+
